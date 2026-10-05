@@ -66,16 +66,4 @@ Then open http://localhost:8501.
 
 ---
 
-## Screenshots
-
-> _Screenshots coming soon._
-
-| Modal method report | Split-Step Fourier report | App |
-| :---: | :---: | :---: |
-| ![Modal method report](docs/screenshots/modale.png) | ![Split-Step Fourier report](docs/screenshots/fourier.png) | ![App](docs/screenshots/app.png) |
-
-<!-- Add images to docs/screenshots/ using the file names above. -->
-
----
-
 **Author:** Alyaa Saab, engineering student at ENSC (Bordeaux INP)
